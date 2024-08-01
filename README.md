@@ -15,10 +15,14 @@ The Employee Payroll Tracker is designed to help payroll managers track employee
 
 ## Demo
 
-https://github.com/user-attachments/assets56bab58b-cf07-4f73-bbb7-aa1402fe5546
+#### Link to Video
+
+https://app.screencastify.com/v3/watch/PPgvygNzlLqg2AZBYzLD
+
+https://github.com/user-attachments/assets/3f188a3c-87b6-4939-b866-a53551342dd3
 
 
-#### Link to Vido
+
 
 
 
@@ -32,7 +36,7 @@ https://github.com/user-attachments/assets56bab58b-cf07-4f73-bbb7-aa1402fe5546
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone git@github.com:SailorVirgo/Employee-Tracker-.git
 
 
 2. Navigate to the project directory:
