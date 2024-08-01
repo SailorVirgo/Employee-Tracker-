@@ -51,11 +51,12 @@ https://github.com/user-attachments/assets/3f188a3c-87b6-4939-b866-a53551342dd3
 
 ## Usage
 
-1. Start the application:
+1. To Start the application:
+   - Open your terminal
     ```sh
-    npm start
+    node index.js
 
-2. Open your browser and navigate to http://localhost:3000
+2. Menu will display 
 
 
 ## File Structure
